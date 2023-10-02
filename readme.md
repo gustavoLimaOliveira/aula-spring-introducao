@@ -32,13 +32,12 @@ Vamos exemplificar criando uma aplicação simples que utiliza EJB para retornar
 
 6. Criar o arquivo `index.xhtml` dentro da pasta `webapp`.
 
-Fique ligado porque vamos responder no próximo vídeo.
+
+## Introdução ao Spring
 
 E em meados de 2002 Rod Johnson era uma pessoa arquiteta de software estava escrevendo um livro com as melhores práticas para desenvolver utilizando JAVA EE, e com isso ele começou a perceber que às vezes tinha que escrever muito código para fazer uma coisa que deveria ser mais simples e que tinham que ter uma maneira melhor de fazer certas coisas. E com isso, em 2003, surgiu o Spring, que foi abraçado pela comunidade.
 
 O Spring surgiu com muitas facilidades, como injeção de dependência, uma melhor forma de lidar com gerenciamento de transações e modularidade.
-
-Vamos abrir o site do Spring [https://spring.io/why-spring](https://spring.io/why-spring) e verificar um pouco sobre esse universo.
 
 ### Tópicos Abordados
 
